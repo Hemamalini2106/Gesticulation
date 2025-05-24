@@ -25,7 +25,4 @@ Gesticulation Mapping is a computer vision-based project designed to recognize a
 4. **Classification:** A trained machine learning model classifies the gesture based on extracted features.  
 5. **Mapping:** Recognized gestures are mapped to predefined commands or actions, which the system executes or displays.
 
-## Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/gesticulation-mapping.git
+
